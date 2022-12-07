@@ -1,0 +1,12 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Pinyon Script', cursive;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
